@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-This website is the supplemental material for the paper [_An interview method for engaging personal data_] by J. Moore, P. Goffin, J. Wiese, and M. Meyer. The paper will appear in XXX issue of _The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2021)._ 
+This website is the supplemental material for the paper [_An interview method for engaging personal data_] by J. Moore, P. Goffin, J. Wiese, and M. Meyer. The paper will appear in the December 2021 issue of _The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)._ 
 <br>
 <br>
 
